@@ -1,0 +1,22 @@
+{
+  "name": "node_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pretty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/draconian00/node_example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/draconian00/node_example/issues"
+  },
+  "homepage": "https://github.com/draconian00/node_example#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
